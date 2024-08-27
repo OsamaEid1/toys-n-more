@@ -1,0 +1,389 @@
+[
+    {
+        "name": "كرة مطاطية لتخفيف التوتر وزيادة التركيز - قطعة واحدة",
+        "price": 29,
+        "img_url": "./images/00040004.png",
+        "amz_url": "https://www.amazon.eg/dp/B0DCDJ678K?ref=myi_title_dp",
+        "whatsapp_text": "لعبة كرة العنب",
+        "stock": 12,
+        "category": "both_toys"
+    },
+    {
+        "name": "مجموعة لعب إكسسوارات الأميرة فروزن مع خصلة شعر بيضاء وتاج وصولجان",
+        "price": 89,
+        "img_url": "./images/00010001.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DC5FJRQV?ref=myi_title_dp",
+        "whatsapp_text": "لعبة ضفيرة فروزن",
+        "stock": 1,
+        "category": "girls_toys"
+    },
+    {
+        "name": "12 شاربًا مزيفًا ومضحكًا للحفلات والألعاب التنكرية للأطفال والكبار",
+        "price": 39,
+        "img_url": "./images/00020007.jpeg",
+        "amz_url": "https://www.amazon.eg/dp/B0DC91VX9F?ref=myi_title_dp",
+        "whatsapp_text": "لعبة الشنب",
+        "stock": 3,
+        "category": "both_toys"
+    },
+    {
+        "name": "هاتف الأرنب الذكي مع أصوات حيوانات وموسيقى ومحادثات وأضواء للأطفال",
+        "price": 139,
+        "img_url": "./images/00010004.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DC5KHSHQ?ref=myi_title_dp",
+        "whatsapp_text": "لعبة التليفون الجزرة - برتقالي",
+        "stock": 2,
+        "category": "both_toys"
+    },
+    {
+        "name": "هاتف الأرنب الذكي مع أصوات حيوانات وموسيقى ومحادثات وأضواء للأطفال",
+        "price": 139,
+        "img_url": "./images/00010005-3.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DC5GPZPY?ref=myi_title_dp",
+        "whatsapp_text": "لعبة التليفون الجزرة - وردي",
+        "stock": 2,
+        "category": "both_toys"
+    },
+    {
+        "name": "هاتف الأرنب الذكي مع أصوات حيوانات وموسيقى ومحادثات وأضواء للأطفال",
+        "price": 139,
+        "img_url": "./images/00010010-2.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DC5G8XXB?ref=myi_title_dp",
+        "whatsapp_text": "لعبة التليفون الجزرة - بيبي بلو",
+        "stock": 2,
+        "category": "both_toys"
+    },
+    {
+        "name": "هاتف الأرنب الذكي مع أصوات حيوانات وموسيقى ومحادثات وأضواء للأطفال",
+        "price": 139,
+        "img_url": "./images/00010003.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DC5J6JYW?ref=myi_title_dp",
+        "whatsapp_text": "لعبة التليفون الجزرة - بيبي بلو",
+        "stock": 2,
+        "category": "both_toys"
+    },
+    {
+        "name": "لعبة ستيتش بوب ات، 999 مستوى و4 أوضاع لعب للأولاد والبنات",
+        "price": 159,
+        "img_url": "./images/00010008.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DC4DYH7X?ref=myi_title_dp",
+        "whatsapp_text": "لعبة بوب ات - استيتش",
+        "stock": 0,
+        "category": "both_toys"
+    },
+    {
+        "name": "لعبة كيتي بوب ات، 999 مستوى و4 أوضاع لعب للأولاد والبنات",
+        "price": 159,
+        "img_url": "./images/00010011.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DCPFS1SV?ref=myi_title_dp",
+        "whatsapp_text": "لعبة بوب ات - كيتي",
+        "stock": 0,
+        "category": "girls_toys"
+    },
+    {
+        "name": "لعبة البطة بوب ات، 999 مستوى و4 أوضاع لعب للأولاد والبنات",
+        "price": 159,
+        "img_url": "./images/00010009.png",
+        "amz_url": "https://www.amazon.eg/dp/B0DC5MVJS3?ref=myi_title_dp",
+        "whatsapp_text": "لعبة بوب ات - البطة",
+        "stock": 0,
+        "category": "both_toys"
+    },
+    {
+        "name": "لعبة الدب بوب ات، 999 مستوى و4 أوضاع لعب للأولاد والبنات",
+        "price": 159,
+        "img_url": "./images/00010012.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DC5PYQQW?ref=myi_title_dp",
+        "whatsapp_text": "لعبة بوب ات - الدب",
+        "stock": 4,
+        "category": "both_toys"
+    },
+    {
+        "name": "مجموعة لعب صدَفة مستحضرات التجميل مع مرآة للفتيات",
+        "price": 69,
+        "img_url": "./images/00020006.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DC8PY6TV?ref=myi_title_dp",
+        "whatsapp_text": "لعبة المكياج - الصدَفة",
+        "stock": 6,
+        "category": "girls_toys"
+    },
+    {
+        "name": "مجموعة لعب مكياج لولي بوب مع أحمر شفاه وظلال العينين وملمع تزيين",
+        "price": 149,
+        "img_url": "./images/00030001.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DCPFLZCV?ref=myi_title_dp",
+        "whatsapp_text": "لعبة المكياج - لولي بوب الصغيرة",
+        "stock": 2,
+        "category": "girls_toys"
+    },
+    {
+        "name": "مجموعة لعب مكياج لولي بوب مع أحمر شفاه وطلاء أظافر وملمع تزيين",
+        "price": 149,
+        "img_url": "./images/00010007.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DCPS9CZZ?ref=myi_title_dp",
+        "whatsapp_text": "لعبة المكياج - لولي بوب الكبيرة",
+        "stock": 3,
+        "category": "girls_toys"
+    },
+    {
+        "name": "مجموعة لعب حقيبة أدوات الطبيب",
+        "price": 89,
+        "img_url": "./images/00030003.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DCQ7H9NB?ref=myi_title_dp",
+        "whatsapp_text": "لعبة شنطة أدوات الدكتور",
+        "stock": 3,
+        "category": "both_toys"
+    },
+    {
+        "name": "مجموعة لعب حقيبة أدوات النجار",
+        "price": 89,
+        "img_url": "./images/00030002.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DCPQBR1F?ref=myi_title_dp",
+        "whatsapp_text": "لعبة شنطة أدوات النجار",
+        "stock": 3,
+        "category": "boys_toys"
+    },
+    {
+        "name": "مجموعة لعب أدوات الدكتور مع دمية للأطفال - 6 قطع",
+        "price": 89,
+        "img_url": "./images/00030008.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DCQ7KTKW?ref=myi_title_dp",
+        "whatsapp_text": "لعبة أدوات الدكتور مع الدمية",
+        "stock": 3,
+        "category": "girls_toys"
+    },
+    {
+        "name": "لعبة طائرة هليكوبتر I/R مع مستشعر وجهاز تحكم عن بعد وأضواء",
+        "price": 175,
+        "img_url": "./images/00040001.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DC9FB914?ref=myi_title_dp",
+        "whatsapp_text": "لعبة الهليكوبتر",
+        "stock": 3,
+        "category": "boys_toys"
+    },
+    {
+        "name": "R/C سيارة سباق رياضية حديثة بالريموت كنترول، مقياس 1:24",
+        "price": 175,
+        "img_url": "./images/00040005.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DCQKYZX1?ref=myi_title_dp",
+        "whatsapp_text": "لعبة العربية الي بريموت",
+        "stock": 3,
+        "category": "boys_toys"
+    },
+    {
+        "name": "لعبة سيارة الشرطة المتحولة مع الموسيقى والأضواء",
+        "price": 199,
+        "img_url": "./images/00040006.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DCD6W5K1?ref=myi_title_dp",
+        "whatsapp_text": "لعبة العربية المتحولة",
+        "stock": 3,
+        "category": "boys_toys"
+    },
+    {
+        "name": "مجموعة لعب مسار السيارات كونتيست، مجموعات وسباق لا نهائيان - 31 قطع",
+        "price": 179,
+        "img_url": "./images/00030005.png",
+        "amz_url": "https://www.amazon.eg/dp/B0DCQCFBX1?ref=myi_title_dp",
+        "whatsapp_text": "لعبة تراك العربيات",
+        "stock": 2,
+        "category": "boys_toys"
+    },
+    {
+        "name": "مجموعة لعب 2 في 1، ألعاب القوس والسهم مع لوحة الهدف",
+        "price": 149,
+        "img_url": "./images/00040008.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DCQQHXRT?ref=myi_title_dp",
+        "whatsapp_text": "لعبة البندقية والقوس",
+        "stock": 0,
+        "category": "boys_toys"
+    },
+    {
+        "name": "مجموعة لعب الأسلحة الفائقة مع بندقية ومسدسين وقناع وأصفاد للأطفال",
+        "price": 149,
+        "img_url": "./images/00050001.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DCQQHXRT?ref=myi_title_dp",
+        "whatsapp_text": "لعبة المسدسات - الديفينس",
+        "stock": 1,
+        "category": "boys_toys"
+    },
+    {
+        "name": "مجموعة لعب الرمي والالتقاط مع قرصين وكرة تنس",
+        "price": 99,
+        "img_url": "./images/00040009.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DCDJTQZ8?ref=myi_title_dp",
+        "whatsapp_text": "لعبة الرمي والإلتقاط",
+        "stock": 5,
+        "category": "both_toys"
+    },
+    {
+        "name": "مجموعة لعب كرة السلة مع كرة سلة ولوحة خلفية ملونة ومنفاخ، ارتفاع قابل للتعديل من 52 سم إلى 115 سم",
+        "price": 199,
+        "img_url": "./images/00050002.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DCDH1S2Q?ref=myi_title_dp",
+        "whatsapp_text": "لعبة كرة السلة - P9666",
+        "stock": 1,
+        "category": "both_toys"
+    },
+    {
+        "name": "لعبة صيد السمك للأطفال، دع أطفالك يصطادون بعض السمك - (24  سمكة & 4 صنارات - 9269)",
+        "price": 199,
+        "img_url": "./images/6952221617755.png",
+        "amz_url": "https://www.amazon.eg/dp/B0DCC9V5WY?ref=myi_title_dp",
+        "whatsapp_text": "لعبة صياد السمك الصغيرة - 9269",
+        "stock": 1,
+        "category": "both_toys"
+    },
+    {
+        "name": "لعبة مسدس الفقاعات الكهربائي الشفاف ذو 21 فتحة من الجيل الثالث جاتلينج مع الأضواء",
+        "price": 175,
+        "img_url": "./images/00030009.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DCQ9WPHL?ref=myi_title_dp",
+        "whatsapp_text": "لعبة مسدس البابل الشفاف",
+        "stock": 3,
+        "category": "both_toys"
+    },
+    {
+        "name": "لعبة التمساح عضاض الأصابع الممتعة للأطفال، اضغط على سن التمساح واحترس أن يعضك",
+        "price": 119,
+        "img_url": "./images/00010006-3.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DC5JNCL2?ref=myi_title_dp",
+        "whatsapp_text": "لعبة اتمساح العضاض",
+        "stock": 2,
+        "category": "both_toys"
+    },
+    {
+        "name": "لعبة حلقات قوس قزح مع بطة للأطفال - 9 حلقات",
+        "price": 119,
+        "img_url": "./images/00040007-1.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DCDKMD72?ref=myi_title_dp",
+        "whatsapp_text": "لعبة حلقات البطة",
+        "stock": 3,
+        "category": "both_toys"
+    },
+    {
+        "name": "مجموعة لعب عمود صيد 2 في 1 ومكعبات خشبية ثلاثية الابعاد للاطفال - 23 قطعة",
+        "price": 109,
+        "img_url": "./images/00040002-7.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DCCBSN73?ref=myi_title_dp",
+        "whatsapp_text": "لعبة مكعبات الأعمدة",
+        "stock": 3,
+        "category": "both_toys"
+    },
+    {
+        "name": "مجموعة لعب رص وترتيب المكعبات الخشبية ثلاثية الأبعاد للأطفال - 20 قطعة",
+        "price": 109,
+        "img_url": "./images/00040003-6.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DCCF8FV6?ref=myi_title_dp",
+        "whatsapp_text": "لعبة مكعبات الأعمدة",
+        "stock": 3,
+        "category": "both_toys"
+    },
+    {
+        "name": "لعبة أيدنتيكال البطاقات المتطابقة للأطفال والكبار، اكتشف الرمز المتطابق قبل الآخرين - 2-6 لاعبين",
+        "price": 125,
+        "img_url": "./images/00020001.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DC8B8ZPK?ref=myi_title_dp",
+        "whatsapp_text": "لعبة أيدينتيكال",
+        "stock": 0,
+        "category": "both_toys"
+    },
+    {
+        "name": "لعبة قول او اعمل جيب الأصلية مع 50 سؤال و50 تحدي - من قول أميم",
+        "price": 89,
+        "img_url": "./images/6224002198037.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DDVBGDQL?ref=myi_title_dp",
+        "whatsapp_text": "لعبة قول او اعمل جيب",
+        "stock": 50,
+        "category": "adults_toys"
+    },
+    {
+        "name": "لعبة قول او اعمل بوكس الأصلية مع الخريطة - من قول أميم",
+        "price": 399,
+        "img_url": "./images/6225000441828-2.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DDV32897?ref=myi_title_dp",
+        "whatsapp_text": "لعبة قول او اعمل بوكس",
+        "stock": 3,
+        "category": "adults_toys"
+    },
+    {
+        "name": "لعبة قول او اعمل اكستريم مع الكروت الجديدة وتحديات مجنونة - من قول أميم",
+        "price": 399,
+        "img_url": "./images/6224002198051.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DDV3GF3J?ref=myi_title_dp",
+        "whatsapp_text": "لعبة قول او اعمل اكستريم",
+        "stock": 3,
+        "category": "adults_toys"
+    },
+    {
+        "name": "لعبة ولاعة الجماعية لاكتشاف من بين أصدقائك ينطبق عليه السؤال ثم الحكم عليه - 120بطاقة من قول أميم",
+        "price": 249,
+        "img_url": "./images/6224002198013.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DDVF789Y?ref=myi_title_dp",
+        "whatsapp_text": "لعبة ولاعة",
+        "stock": 3,
+        "category": "adults_toys"
+    },
+    {
+        "name": "لعبة تعرفني ولّا؟ لاختبار مدى معرفة أصدقائك بك - من قول أميم",
+        "price": 249,
+        "img_url": "./images/6224002198099.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DDVQ1TJN?ref=myi_title_dp",
+        "whatsapp_text": "لعبة تعرفني ولا",
+        "stock": 3,
+        "category": "adults_toys"
+    },
+    {
+        "name": "لعبة قول أو اعمل، اسألة وأحكام، تجربة النارالجماعية بالعربي",
+        "price": 125,
+        "img_url": "./images/1412021000034.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DCNYQ2RV?ref=myi_title_dp",
+        "whatsapp_text": "لعبة قول أو اعمل الكبيرة",
+        "stock": 3,
+        "category": "adults_toys"
+    },
+    {
+        "name": "لعبة قول أو اعمل جيب الجماعية، اسألة وأحكام بالعربي",
+        "price": 69,
+        "img_url": "./images/00020008.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DCNYL88Q?ref=myi_title_dp",
+        "whatsapp_text": "لعبة قول أو اعمل جيب",
+        "stock": 6,
+        "category": "adults_toys"
+    },
+    {
+        "name": "لعبة بطاقات سكرو الجيب مع البطاقات الجديدة - 60 بطاقة",
+        "price": 89,
+        "img_url": "./images/00020002.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DCP8C9MW?ref=myi_title_dp",
+        "whatsapp_text": "لعبة سكرو جيب",
+        "stock": 6,
+        "category": "adults_toys"
+    },
+    {
+        "name": "لعبة ولعة، أسئلة وأحكام، مين فيكم؟ - 102 سؤال و102 حكم و8 كروت حظ",
+        "price": 89,
+        "img_url": "./images/00020003.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DCP9F78X?ref=myi_title_dp",
+        "whatsapp_text": "لعبة ولعة",
+        "stock": 3,
+        "category": "adults_toys"
+    },
+    {
+        "name": "لعبة بطاقات أونو المشهورة لجميع الأعمار- 2-10 لاعبين",
+        "price": 49,
+        "img_url": "./images/6934872691018-1.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DCPBMM2N?ref=myi_title_dp",
+        "whatsapp_text": "لعبة أونو",
+        "stock": 6,
+        "category": "all_ages_toys"
+    },
+    {
+        "name": "لعبة الدومينو الستة المضاعفة، مجموعة من 28 قطعة",
+        "price": 169,
+        "img_url": "./images/00020005.jpg",
+        "amz_url": "https://www.amazon.eg/dp/B0DC8K6L89?ref=myi_title_dp",
+        "whatsapp_text": "لعبة الدومينا",
+        "stock": 3,
+        "category": "adults_toys"
+    }
+]
